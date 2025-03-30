@@ -2,6 +2,12 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
+@font-face{
+	font-family: "Standard Blackletter";
+	font-weight: 700;
+	src: url("../fonts/standard-blackletter.otf") format("opentype");
+}
+
 [epub|type~="prologue"]{
 	margin-top: 20vh;
 }
@@ -21,14 +27,17 @@ figure img{
 	max-width: 100%;
 }
 
+/* figcaption values adapted for appendix.xhtml */
 figcaption{
-	font-size: smaller;
-	font-style: italic;
-	margin: 1em;
+	display: flex;
+	justify-content: space-between;
+	margin: 1.5em 1em .5em 1em;
+	padding: 0 20%;
 }
 
-figcaption p + p{
-	text-indent: 0;
+figcaption span:last-child{
+	font-family: "Standard Blackletter";
+	font-size: larger;
 }
 
 /* Full-page figures */
@@ -119,4 +128,4 @@ p span.i1{
 blockquote[xml|lang]{
 	font-style: italic;
 }
-/* end added */
+/* end additonal */
