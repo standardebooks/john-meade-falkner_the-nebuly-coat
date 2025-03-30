@@ -46,14 +46,16 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">While overseeing renovations of a medieval church, a young architect is drawn unwillingly into local mysteries.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The tower of Cullerne Minster, a vast church dating from the twelfth century, serves as a landmark on the south English coast, even though the town of Cullerne is no longer a port. The oversized parish church has fallen into some disrepair, and its rector has managed to secure funds for renovations to begin. The young architect, Edward Westray, is dispatched by his firm to oversee the work.&lt;/p&gt;
+			&lt;p&gt;As Westray settles to the task, he becomes embroiled in the small but dense web of social affairs in the town, and grows a deeper relationship with the embittered church organist who is his fellow lodger. The history of the church, it transpires, is bound up with the local aristocracy—the lords Blandamer—with the Blandamer coat of arms featuring in the stained glass of the church: “barry nebuly of six, argent and vert,” the “nebuly coat.” Yet in recent times the Blandamers have not been much present around Cullerne. More strange still is the conviction that was held by the late brother of Westray’s landlady—that he was the rightful heir to the title.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/john-meade-falkner"&gt;John Meade Falkner’s&lt;/a&gt; &lt;i&gt;The Nebuly Coat&lt;/i&gt; is the third of the three novels he published, the most famous being &lt;a href="https://standardebooks.org/ebooks/john-meade-falkner/moonfleet"&gt;&lt;i&gt;Moonfleet&lt;/i&gt;&lt;/a&gt;. &lt;i&gt;The Nebuly Coat&lt;/i&gt; shares something of its drama, but is an altogether more ambitious novel. The settings evoked owe something to the “Wessex” of &lt;a href="https://standardebooks.org/ebooks/thomas-hardy"&gt;Thomas Hardy’s&lt;/a&gt; creation. Hardy and Falkner enjoyed a long friendship, and some have noted resonances between &lt;i&gt;The Nebuly Coat&lt;/i&gt; and Hardy’s &lt;a href="https://standardebooks.org/ebooks/thomas-hardy/a-pair-of-blue-eyes"&gt;&lt;i&gt;A Pair of Blue Eyes&lt;/i&gt;&lt;/a&gt;.&lt;/p&gt;
+			&lt;p&gt;Falkner is a patient narrator, and weaves together the story of the Cullerne Minster’s repair—a more fraught undertaking than it first appears—with the backstories of the main characters as they come to bear on the present circumstances. There is even a mystery about whether there is a mystery! &lt;i&gt;The Nebuly Coat&lt;/i&gt; has often been reprinted, and was adapted for radio by the BBC.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/22943</dc:source>
 		<dc:source>https://archive.org/details/John_Meade_Falkner_The_Nebuly_Coat</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Nebuly_Coat</meta>
@@ -64,10 +66,9 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n82017667</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Hermann Dyck</dc:contributor>
+		<meta property="file-as" refines="#artist">Dyck, Hermann</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Hermann_Dyck</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Nick Hodson</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Hodson, Nick</meta>
