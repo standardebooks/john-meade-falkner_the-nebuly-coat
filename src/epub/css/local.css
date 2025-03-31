@@ -28,10 +28,12 @@ figure img{
 }
 
 /* figcaption values adapted for appendix.xhtml */
-figcaption{
-	display: flex;
-	justify-content: space-between;
-	margin: 0 1em;
+@supports(display: flex){
+	figcaption{
+		display: flex;
+		justify-content: space-between;
+		margin: 0 1em;
+	}
 }
 
 section figure:nth-last-of-type(-n+3) figcaption{
