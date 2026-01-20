@@ -56,7 +56,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/22943</dc:source>
 		<dc:source>https://archive.org/details/John_Meade_Falkner_The_Nebuly_Coat</dc:source>
-		<meta property="se:word-count">118478</meta>
+		<meta property="se:word-count">117105</meta>
 		<meta property="se:reading-ease.flesch">65.86</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Nebuly_Coat</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-meade-falkner_the-nebuly-coat</meta>
