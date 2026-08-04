@@ -47,7 +47,7 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>While overseeing renovations of a medieval church, a young architect is drawn unwillingly into local mysteries.</dc:abstract>
+		<meta property="schema:abstract">While overseeing renovations of a medieval church, a young architect is drawn unwillingly into local mysteries.</meta>
 		<dc:description>
 			&lt;p&gt;The tower of Cullerne Minster, a vast church dating from the twelfth century, serves as a landmark on the south English coast, even though the town of Cullerne is no longer a port. The oversized parish church has fallen into some disrepair, and its rector has managed to secure funds for renovations to begin. The young architect, Edward Westray, is dispatched by his firm to oversee the work.&lt;/p&gt;
 			&lt;p&gt;As Westray settles to the task, he becomes embroiled in the small but dense web of social affairs in the town, and develops a deeper relationship with his fellow lodger, an embittered church organist. The history of the church, it transpires, is bound up with the local aristocracy—the lords Blandamer—with the Blandamer coat of arms featuring in the stained glass of the church: “barry nebuly of six, argent and vert.” Yet in recent times the Blandamers have not been much present around Cullerne. More strange still is the conviction that was held by the late brother of Westray’s landlady—that he was the rightful heir to the title.&lt;/p&gt;
