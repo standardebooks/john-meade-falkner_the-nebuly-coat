@@ -31,11 +31,11 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Nebuly Coat</dc:title>
 		<meta property="file-as" refines="#title">Nebuly Coat, The</meta>
-		<dc:subject id="subject-1">Nobility -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Dorset (England) -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Architects -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Church architecture -- Conservation and restoration -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Heraldry -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Nobility--Fiction</dc:subject>
+		<dc:subject id="subject-2">Dorset (England)--Fiction</dc:subject>
+		<dc:subject id="subject-3">Architects--Fiction</dc:subject>
+		<dc:subject id="subject-4">Church architecture--Conservation and restoration--Fiction</dc:subject>
+		<dc:subject id="subject-5">Heraldry--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008108192</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
